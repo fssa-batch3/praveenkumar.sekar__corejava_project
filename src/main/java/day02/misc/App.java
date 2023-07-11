@@ -22,6 +22,7 @@ public class App {
 		student11.setEmail("praveen@gmail.com");
 		student11.setId(1);
 		System.out.println(Student.count);
+//		System.out.println(student11.academy);
 	}
 
 }
