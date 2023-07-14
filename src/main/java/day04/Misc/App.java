@@ -5,6 +5,5 @@ public class App {
 		Square square1 = new Square(20.00);
 		square1.calculateArea();
 		
-		
 	}
 }
